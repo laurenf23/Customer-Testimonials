@@ -8,89 +8,107 @@
 <body style= "background-color: white #ffffff;">
   <center>
     <h1><u> Customer Testimonials </u></h1>
-    <br>
-    <br>
-    <p style="font-family: Georgia, serif; font-size: 36px; color: #004c3f; font-weight: bold;"> Your health, our passion — hear what our community has to say about the care we provide: </p>
-    </p>
-    <br>
-    <br>
+  </center>
+  <br>
+  <br>
+  <p style="font-family: Georgia, serif; font-size: 36px; color: #004c3f; font-weight: bold; text-align: center;">
+    Your health, our passion — hear what our community has to say about the care we provide:
+  </p>
+  <br>
+  <br>
     <h2 style="font-family: Georgia, serif; color: #000000;">Why Our Customers Love Eloheh</h2>
-    <p style="font-family: Verdana, sans-serif; color: #000000;"><em>(Unordered List)</em></p>
     <ul style="font-family: Verdana, sans-serif; color: #000000;">
-      <li><em>Personalized</em> care that puts your needs first</li>
+      <li>Personalized care that puts your needs first</li>
       <li>Proven, trusted, high-quality products that make a real difference</li>
       <li>Friendly, welcoming staff supporting you every step of the way</li>
     </ul>
     <br>
     <br>
     <ul>
+    <br>
+    <br>
+    <h2 style="font-family: Georgia, serif; color: #000000;">What People Are Saying</h2>
+    <br>
+    <br>
+    <p style="color: #000000; font-size: 20px;">★★★★★</p>
+    <p style="font-family: Verdana, sans-serif; color: #000000;">
+      <em>"Eloheh’s telehealth team created a plan that fit into my busy schedule, and the staff was immensely supportive of my needs."</em><br>
+      — <strong>Grace P., Houston, TX</strong>
+    </p>
+    <br>
+    <br>
+    <img src="Grace.png" width="350" alt="Grace">
+    <br><br>
+    <br>
+    <br>
+    <p style="color: #000000; font-size: 20px;">★★★★★</p>
+    <p style="font-family: Verdana, sans-serif; color: #000000;">
+      <em>"I trust Eloheh with my whole family’s health. They use quality products and have doctors who genuinely care about their patients."</em><br>
+      — <strong>John T., Boston, MA</strong>
+    </p>
+    <br>
+    <br>
+    <img src="John.jpg" width="350" alt="John">
+    <br><br>
+    <br>
+    <br>
+    <p style="color: #000000; font-size: 20px;">★★★★☆</p>
+    <p style="font-family: Verdana, sans-serif; color: #000000;">
+      <em>"Fast, attentive service, clear answers, and knowledgeable staff who are committed to finding the right solution. I recommend Eloheh to everyone I know!"</em><br>
+      — <strong>Charles B., Chicago, IL</strong>
+    </p>
+    <br>
+    <br>
+    <img src="Charles.webp" width="350" alt="Charles">
+    <br><br>
+    <br>
+    <br>
+    <h2 style="font-family: Georgia, serif; color: #004c3f;">Share Your Story With Us</h2>
+    <p style="font-family: Verdana, sans-serif; color: #000000;"><em>(Ordered List)</em></p>
+    <ol style="font-family: Verdana, sans-serif; color: #000000;">
+      <li>Select the <strong>“Contact Me”</strong> link below.</li>
       <li>
-        <a href="https://www.bizlibrary.com/blog/organizational-culture/customer-service-in-healthcare/" target="_blank" rel="noopener">
-          <img src="https://www.bizlibrary.com/wp-content/uploads/2020/04/06160723/Customer-Service-in-Health-Care-.png"
-            width="350"
-            alt="Customer Service in Health Care">
-        </a>
+        <strong>Contact Me:</strong>
+        <a href="mailto:fallonl@Eloheh.com" style="color:#0366d6;">fallonl@Eloheh.com</a>
       </li>
-    </ul>
-  </center>  
-<br>
-<br> 
-<h2 style="font-family: Georgia, serif; color: #000000;">What People Are Saying</h2>
-<p style="color: #000000; font-size: 20px;">★★★★★</p>
-<p style="font-family: Verdana, sans-serif; color: #000000;">
-  <em>"Eloheh’s telehealth team created a plan that fit into my busy schedule, and the staff was immensely supportive of my needs."</em>
-  <br>
-  — <strong>Grace P., Houston, TX</strong>
-</p>
-<br>
-<p style="color: #000000; font-size: 20px;">★★★★★</p>
-<p style="font-family: Verdana, sans-serif; color: #000000;">
-  <em>"I trust Eloheh with my whole family’s health. They use quality products and have doctors who genuinely care about their patients."</em>
-  <br>
-  — <strong>John T., Boston, MA</strong>
-</p>
-<br>
-<p style="color: #000000; font-size: 20px;">★★★★☆</p>
-<p style="font-family: Verdana, sans-serif; color: #000000;">
-  <em>"Fast, attentive service, clear answers, and knowledgeable staff who are committed to finding the right solution. I recommend Eloheh to everyone I know!"</em>
-  <br>
-  — <strong>Charles B., Chicago, IL</strong>
-</p>  
-<br>
-<br>
-<br>
-<h2 style="font-family: Georgia, serif; color: #004c3f;">Share Your Story With Us</h2>
-<p style="font-family: Verdana, sans-serif; color: #000000;"><em>(Ordered List)</em></p>
-<ol style="font-family: Verdana, sans-serif; color: #000000;">
-  <li>Select the <strong>“Contact Me”</strong> link below.</li>
-  <li>
-    <strong>Contact Me:</strong>
-    <a href="mailto:fallonl@Eloheh.com"
-style="color:#0366d6;">fallonl@Eloheh.com</a>
-  </li>
-  <li>Send our representative a message with your testimonial. Remember to include your name and where you’re from so we can feature you — we’ll get back to you as soon as possible.</li>
-</ol>
-<br>
-<br>
-<h2 style="font-family: Georgia, serif; color: #004c3f;">More Helpful Resources</h2>
-<p style="font-family: Verdana, sans-serif; color: #000000;">
-  Want to learn more about trusted, research-based healthcare? Visit the National Institutes of Health:
-  <a href="https://www.nih.gov/" target="_blank" rel="noopener" style="color:#0366d6;">https://www.nih.gov/</a>
-</p>
-<p style="font-family: Verdana, sans-serif; color: #000000;">
-  Telehealth Appointment Prep Checklist (PDF):
-  <a href="downloads/Eloheh-Telehealth-Prep-Checklist.pdf" style="color:#0366d6;">downloads/Eloheh-Telehealth-Prep-Checklist.pdf</a>
-</p>
-<p style="font-family: Verdana, sans-serif; color: #000000;">
-  Healthy Living Basics (PDF):
-  <a href="downloads/Eloheh-Healthy-Living-Basics.pdf" style="color:#0366d6;">downloads/Eloheh-Healthy-Living-Basics.pdf</a>
-</p>
-<hr>
-<br>
-<br>
-<p style="font-family: Verdana, sans-serif; color: #000000;">
-  <strong>Date Last Modified:</strong> August 8, 2025
-</p>
+      <li>Send our representative a message with your testimonial. Remember to include your name and where you’re from so we can feature you — we’ll get back to you as soon as possible.</li>
+    </ol>
+    <br>
+    <br>
+    <h2 style="font-family: Georgia, serif; color: #004c3f;">More Helpful Resources</h2>
+    <br>
+    <p style="font-family: Verdana, sans-serif; color: #000000;">
+      Want to learn more about trusted, research-based healthcare? Visit the National Institutes of Health:
+      <a href="https://www.nih.gov/" target="_blank" rel="noopener" style="color:#0366d6;">https://www.nih.gov/</a>
+    </p>
+    <br>
+    <p style="font-family: Verdana, sans-serif; color: #000000;">
+      Telehealth Appointment Prep Checklist (PDF):
+      <a href="downloads/Telehealth-Appointment-Prep-Checklist.pdf" download style="color:#0366d6;">
+        downloads/Telehealth-Appointment-Prep-Checklist.pdf
+      </a>
+    </p>
+    <br>
+    <p style="font-family: Verdana, sans-serif; color: #000000;">
+      Healthy Living Basics (PDF):
+      <a href="downloads/Healthy-Living-Basics.pdf" download style="color:#0366d6;">
+      downloads/Healthy-Living-Basics.pdf
+      </a>
+    </p>
+    <br>
+    <br>
+    <hr>
+    <p id="lastmod" style="font-family: Verdana, sans-serif; color:#000000;">
+      <strong>Date Last Modified:</strong>
+    </p>
+    <script>
+      document.getElementById('lastmod').innerHTML =
+        '<strong>Date Last Modified:</strong> ' + document.lastModified;
+    </script>
+
+
+</body>
+</html>
 
 
 
